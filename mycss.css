@@ -1,0 +1,15 @@
+.main_logo{
+    max-width: 150px;
+    width: 100%;
+}
+.image_sec img:hover{
+scale: .8;
+transition: .4s ease-in;
+
+}
+.services-carousel.owl-carousel.owl-theme img{
+    height: 270px;
+}
+.para_of_our_specialization{
+    font-size: 14px;
+}
